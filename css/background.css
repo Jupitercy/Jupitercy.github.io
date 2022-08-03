@@ -1,0 +1,60 @@
+/*#web-bg{
+      /* 背景图像的地址（url括号里）  */
+    /*background: url(https://s2.loli.net/2022/08/02/lObP2WtxEu8iIpB.jpg);
+  /* 背景图像不重复 */
+    /*background-repeat: no-repeat;
+  /* 背景图像大小 */
+     /*background-size: cover; 
+} */
+
+#web_bg {
+  /* 图片可下载上传到自己的图床也可以删掉*/
+  background-image: url("https://ae01.alicdn.com/kf/H5662031fbf344418aa2c8bf74c68826eV.png"),
+    -moz-linear-gradient(45deg, #6dd0f2 15%, #f59abe 85%);
+  background-image: url("https://ae01.alicdn.com/kf/H5662031fbf344418aa2c8bf74c68826eV.png"),
+    -webkit-linear-gradient(45deg, #6dd0f2 15%, #f59abe 85%);
+  background-image: url("https://ae01.alicdn.com/kf/H5662031fbf344418aa2c8bf74c68826eV.png"),
+    -ms-linear-gradient(45deg, #6dd0f2 15%, #f59abe 85%);
+  background-image: url("https://ae01.alicdn.com/kf/H5662031fbf344418aa2c8bf74c68826eV.png"),
+    linear-gradient(45deg, #6dd0f2 15%, #f59abe 85%);
+}
+
+
+.layout>div:first-child:not(.recent-posts) {
+    background: rgba(255,255,255,.5);
+}
+
+/* 滚动条 */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: rgba(73, 177, 245, 0.2);
+    border-radius: 2em;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #49b1f5;
+    background-image: -webkit-linear-gradient(
+      45deg,
+      rgba(255, 255, 255, 0.4) 25%,
+      transparent 25%,
+      transparent 50%,
+      rgba(255, 255, 255, 0.4) 50%,
+      rgba(255, 255, 255, 0.4) 75%,
+      transparent 75%,
+      transparent
+    );
+    border-radius: 2em;
+  }
+  
+  ::-webkit-scrollbar-corner {
+    background-color: transparent;
+  }
+  
+  ::-moz-selection {
+    color: #fff;
+    background-color: #49b1f5;
+  }
