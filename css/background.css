@@ -24,7 +24,7 @@
 
 
 .layout>div:first-child:not(.recent-posts) {
-    background: rgba(255,255,255,.5);
+    background: rgba(255,255,255,.7);
 }
 
 /* 滚动条 */
