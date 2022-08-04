@@ -6,7 +6,7 @@
   <link href="https://jupitercy.github.io/atom.xml" rel="self"/>
   
   <link href="https://jupitercy.github.io/"/>
-  <updated>2022-08-03T07:28:20.155Z</updated>
+  <updated>2022-08-04T03:48:04.923Z</updated>
   <id>https://jupitercy.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo+Next插入图片</title>
+    <link href="https://jupitercy.github.io/2022/08/04/Hexo-Next%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/"/>
+    <id>https://jupitercy.github.io/2022/08/04/Hexo-Next%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/</id>
+    <published>2022-08-04T03:15:45.000Z</published>
+    <updated>2022-08-04T03:48:04.923Z</updated>
+    
+    
+    <summary type="html">解决博客中插入图片无法显示的问题</summary>
+    
+    
+    
+    <category term="技术" scheme="https://jupitercy.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="Hexo" scheme="https://jupitercy.github.io/categories/%E6%8A%80%E6%9C%AF/Hexo/"/>
+    
+    <category term="常见问题" scheme="https://jupitercy.github.io/categories/%E6%8A%80%E6%9C%AF/Hexo/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/"/>
+    
+    <category term="Next主题" scheme="https://jupitercy.github.io/categories/%E6%8A%80%E6%9C%AF/Hexo/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/Next%E4%B8%BB%E9%A2%98/"/>
+    
+    
+    <category term="Hexo" scheme="https://jupitercy.github.io/tags/Hexo/"/>
+    
+    <category term="Next" scheme="https://jupitercy.github.io/tags/Next/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
