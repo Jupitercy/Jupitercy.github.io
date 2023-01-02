@@ -6,7 +6,7 @@
   <link href="https://jupitercy.github.io/atom.xml" rel="self"/>
   
   <link href="https://jupitercy.github.io/"/>
-  <updated>2022-10-13T13:42:34.418Z</updated>
+  <updated>2022-12-16T15:06:08.742Z</updated>
   <id>https://jupitercy.github.io/</id>
   
   <author>
@@ -17,11 +17,76 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Apache服务器基于用户的访问控制</title>
+    <link href="https://jupitercy.github.io/2022/12/16/Apache%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%9F%BA%E4%BA%8E%E7%94%A8%E6%88%B7%E7%9A%84%E8%AE%BF%E9%97%AE%E6%8E%A7%E5%88%B6/"/>
+    <id>https://jupitercy.github.io/2022/12/16/Apache%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%9F%BA%E4%BA%8E%E7%94%A8%E6%88%B7%E7%9A%84%E8%AE%BF%E9%97%AE%E6%8E%A7%E5%88%B6/</id>
+    <published>2022-12-16T15:02:11.000Z</published>
+    <updated>2022-12-16T15:06:08.742Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;为万维网服务器创建&lt;strong&gt;首个&lt;/strong&gt;用户时使用命令：&lt;code&gt;htpasswd -c /etc/httpd/htpasswd tux&lt;/code&gt;&lt;br&gt;还要创建其他用户时，使用命令：&lt;code&gt;htpasswd2</summary>
+        
+      
+    
+    
+    
+    <category term="实验" scheme="https://jupitercy.github.io/categories/%E5%AE%9E%E9%AA%8C/"/>
+    
+    <category term="Linux" scheme="https://jupitercy.github.io/categories/%E5%AE%9E%E9%AA%8C/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://jupitercy.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>chcon can&#39;t apply partial context to unlabeled file varwwwtemp报错</title>
+    <link href="https://jupitercy.github.io/2022/12/16/chcon%20can&#39;t%20apply%20partial%20context%20to%20unlabeled%20file%20varwwwtemp%E6%8A%A5%E9%94%99/"/>
+    <id>https://jupitercy.github.io/2022/12/16/chcon%20can&#39;t%20apply%20partial%20context%20to%20unlabeled%20file%20varwwwtemp%E6%8A%A5%E9%94%99/</id>
+    <published>2022-12-16T14:50:06.000Z</published>
+    <updated>2022-12-16T15:01:24.057Z</updated>
+    
+    
+    <summary type="html">Linux实验时chcon命令报错</summary>
+    
+    
+    
+    <category term="技术" scheme="https://jupitercy.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="Linus" scheme="https://jupitercy.github.io/categories/%E6%8A%80%E6%9C%AF/Linus/"/>
+    
+    <category term="常见问题" scheme="https://jupitercy.github.io/categories/%E6%8A%80%E6%9C%AF/Linus/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/"/>
+    
+    
+    <category term="常见问题" scheme="https://jupitercy.github.io/tags/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/"/>
+    
+    <category term="Linux" scheme="https://jupitercy.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JUnit的使用</title>
+    <link href="https://jupitercy.github.io/2022/11/05/JUnit%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>https://jupitercy.github.io/2022/11/05/JUnit%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
+    <published>2022-11-05T03:29:23.000Z</published>
+    <updated>2022-11-05T03:29:23.668Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>OSmooc题目整理</title>
     <link href="https://jupitercy.github.io/2022/10/13/OSmooc%E9%A2%98%E7%9B%AE%E6%95%B4%E7%90%86/"/>
     <id>https://jupitercy.github.io/2022/10/13/OSmooc%E9%A2%98%E7%9B%AE%E6%95%B4%E7%90%86/</id>
     <published>2022-10-13T13:41:32.000Z</published>
-    <updated>2022-10-13T13:42:34.418Z</updated>
+    <updated>2022-10-31T16:32:26.819Z</updated>
     
     
       
@@ -42,7 +107,7 @@
     <link href="https://jupitercy.github.io/2022/10/09/Numpy%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     <id>https://jupitercy.github.io/2022/10/09/Numpy%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
     <published>2022-10-09T14:21:06.000Z</published>
-    <updated>2022-10-10T14:35:11.066Z</updated>
+    <updated>2022-10-23T15:54:11.318Z</updated>
     
     
       
@@ -63,7 +128,7 @@
     <link href="https://jupitercy.github.io/2022/09/30/%E5%88%B7%E9%A2%98%E8%AE%B0%E5%BD%95-%E5%9D%9A%E6%8C%81%E5%B0%B1%E6%98%AF%E8%83%9C%E5%88%A9%EF%BC%89/"/>
     <id>https://jupitercy.github.io/2022/09/30/%E5%88%B7%E9%A2%98%E8%AE%B0%E5%BD%95-%E5%9D%9A%E6%8C%81%E5%B0%B1%E6%98%AF%E8%83%9C%E5%88%A9%EF%BC%89/</id>
     <published>2022-09-30T05:22:53.000Z</published>
-    <updated>2022-10-12T16:08:47.158Z</updated>
+    <updated>2022-11-01T15:55:02.475Z</updated>
     
     
     <summary type="html">算法课题目记录+平时一天一道【风雨无阻，坚持就是胜利！！！】</summary>
@@ -84,7 +149,7 @@
     <link href="https://jupitercy.github.io/2022/09/29/Linux%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     <id>https://jupitercy.github.io/2022/09/29/Linux%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
     <published>2022-09-29T09:46:14.000Z</published>
-    <updated>2022-10-02T14:26:12.799Z</updated>
+    <updated>2022-12-17T04:34:43.538Z</updated>
     
     
     <summary type="html">Linux系统摸索中</summary>
